@@ -3,7 +3,32 @@ guid: cb733134988d86844b9f2e4b70a69898
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CupBoardMat
+    second: {fileID: 2100000, guid: 47da1d769e2565249bcde142d4dc5233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: de7502802fa5fcb41ad22cdd2df1040f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawerMat
+    second: {fileID: 2100000, guid: 8844490a8eee31441892eab5adee528e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarbleCountMat
+    second: {fileID: 2100000, guid: bbd0e2bc3f03174479de394f7beac9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default2
+    second: {fileID: 2100000, guid: c4f5146b3544b23429f9110c3ea2abb6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
