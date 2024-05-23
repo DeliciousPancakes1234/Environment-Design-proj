@@ -3,7 +3,17 @@ guid: a0f011076acb1f748a2619616d99b19e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 1d5d90606c47a2445b31a665bf4828e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MenuSignMat
+    second: {fileID: 2100000, guid: 5c0d9c10f2ae2ba4e9531ac326fcc2e8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
