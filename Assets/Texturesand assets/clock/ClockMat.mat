@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: default2
+  m_Name: ClockMat
   m_Shader: {fileID: 4800000, guid: 6c046203321edf34fb092959a05e5b4a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -15,7 +15,6 @@ Material:
   - _MK_ALBEDO_MAP
   - _MK_ARTISTIC_ANIMATION_STUTTER
   - _MK_ENVIRONMENT_REFLECTIONS_AMBIENT
-  - _MK_LIGHT_BANDED
   - _MK_OUTLINE_HULL_ORIGIN
   - _MK_RECEIVE_SHADOWS
   - _MK_SPECULAR_ISOTROPIC
@@ -37,7 +36,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AlbedoMap:
-        m_Texture: {fileID: 2800000, guid: 59581501538dbee43bf03430a1bc5f2b, type: 3}
+        m_Texture: {fileID: 2800000, guid: f244dad87afcf804896045899474e5a4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -97,7 +96,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 59581501538dbee43bf03430a1bc5f2b, type: 3}
+        m_Texture: {fileID: 2800000, guid: f244dad87afcf804896045899474e5a4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -216,7 +215,7 @@ Material:
     - _IridescenceSize: 1
     - _IridescenceSmoothness: 0.5
     - _IridescenceThresholdOffset: 0
-    - _Light: 2
+    - _Light: 0
     - _LightBands: 4
     - _LightBandsScale: 0.5
     - _LightThreshold: 0.382
@@ -230,7 +229,7 @@ Material:
     - _OutlineFadeMax: 2
     - _OutlineFadeMin: 0.25
     - _OutlineNoise: 0
-    - _OutlineSize: 5
+    - _OutlineSize: 7
     - _OutlineTab: 1
     - _Parallax: 0.02
     - _QueueOffset: 0
@@ -289,7 +288,7 @@ Material:
     - _VertexAnimationFrequency: {r: 2.5, g: 2.5, b: 2.5, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &4186063113758831308
+--- !u!114 &5740607108629841120
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
