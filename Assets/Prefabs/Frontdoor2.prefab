@@ -68,6 +68,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Frontdoor2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 577112924ea93e944bb9861ec3560a01,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

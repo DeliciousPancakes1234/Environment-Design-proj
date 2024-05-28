@@ -63,6 +63,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: recieptPrinter
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9157d099b5e0d04fa4a853a3722edcd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

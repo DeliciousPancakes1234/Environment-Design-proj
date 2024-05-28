@@ -63,6 +63,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tap
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f196be1f77e84a54ba9c58072e9a76fe,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

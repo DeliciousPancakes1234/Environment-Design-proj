@@ -63,6 +63,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: roundtable
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bfabd654c8076d84e83ed5d48b09c0cf,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

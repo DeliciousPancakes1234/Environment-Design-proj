@@ -58,10 +58,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5493059795851540622, guid: 49421170c0c489c4c9b408fb09ce57e8,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 49421170c0c489c4c9b408fb09ce57e8,
         type: 3}
       propertyPath: m_Name
       value: mug
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 49421170c0c489c4c9b408fb09ce57e8,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

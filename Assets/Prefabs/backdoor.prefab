@@ -58,10 +58,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6354029773034643161, guid: 3eb8d3c25be03a44897076cd0e290c90,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4168048863190246997, guid: 3eb8d3c25be03a44897076cd0e290c90,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2616493796501220969, guid: 3eb8d3c25be03a44897076cd0e290c90,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -501118140328453745, guid: 3eb8d3c25be03a44897076cd0e290c90,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3eb8d3c25be03a44897076cd0e290c90,
         type: 3}
       propertyPath: m_Name
       value: backdoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3eb8d3c25be03a44897076cd0e290c90,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
