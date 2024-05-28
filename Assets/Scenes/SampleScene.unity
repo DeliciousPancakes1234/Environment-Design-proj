@@ -182,6 +182,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -249,6 +254,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -318,6 +328,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -385,6 +400,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: menu (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -454,6 +474,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothchair_low (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -521,6 +546,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Stool2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792763401257233877, guid: ecaf712eac7e1ae459e05d3368fe9aac,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -600,6 +630,11 @@ PrefabInstance:
       propertyPath: mouseSensitivity
       value: 4.31
       objectReference: {fileID: 0}
+    - target: {fileID: 4459864850019384741, guid: 6bacecc4f3df9584198879c73a6b6c36,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4459864850019384750, guid: 6bacecc4f3df9584198879c73a6b6c36,
         type: 3}
       propertyPath: m_Name
@@ -672,6 +707,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: boothtable (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7531556354709720770, guid: c56962798b6e843458e303f8b802a4fa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -878,6 +918,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: roundtable (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8879079199184537439, guid: f371516c14f17304591baf9ea7afd91f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -895,6 +940,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -1013,6 +1063,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1199,6 +1254,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1266,6 +1326,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: menu (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1339,6 +1404,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: microwave2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 31a249a1acf88ed4d912fe7d17514172,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1420,6 +1490,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -1539,6 +1614,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1606,6 +1686,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Stool2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792763401257233877, guid: ecaf712eac7e1ae459e05d3368fe9aac,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1675,6 +1760,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1743,6 +1833,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1760,6 +1855,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -1879,6 +1979,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1896,6 +2001,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -1964,6 +2074,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -2083,6 +2198,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothchair_low (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2151,6 +2271,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stool2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8792763401257233877, guid: ecaf712eac7e1ae459e05d3368fe9aac,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2168,6 +2293,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -2287,6 +2417,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothtable (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7531556354709720770, guid: c56962798b6e843458e303f8b802a4fa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2354,6 +2489,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2423,6 +2563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: roundtable (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8879079199184537439, guid: f371516c14f17304591baf9ea7afd91f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2490,6 +2635,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2559,119 +2709,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: kitchenFloor
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e4c6f01e757ecdc4081cb7ece4eba809,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e4c6f01e757ecdc4081cb7ece4eba809, type: 3}
---- !u!1 &1229064838
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1229064842}
-  - component: {fileID: 1229064841}
-  - component: {fileID: 1229064840}
-  - component: {fileID: 1229064839}
-  m_Layer: 0
-  m_Name: rrr
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!64 &1229064839
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229064838}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &1229064840
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229064838}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1229064841
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229064838}
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1229064842
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229064838}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.333521, y: -0.91, z: -10.1}
-  m_LocalScale: {x: 5.9144, y: 5.9144, z: 5.9144}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1302970832 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7641742964736825306, guid: 7dce168b24292f040bc3913684c612b5,
@@ -2789,6 +2836,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothchair_low (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2856,6 +2908,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2925,6 +2982,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: menu (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2992,6 +3054,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: menu (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3061,6 +3128,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothchair_low (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3128,6 +3200,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: boothchair_low (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3197,6 +3274,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3264,6 +3346,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bartable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7948208857362819100, guid: c13da1c8fcfc883409fb84ea8eddcdf0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3361,6 +3448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oven2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8876977223777082345, guid: 710591029e4fbab438e7c2d1a00f3001,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3428,6 +3520,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Stool2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792763401257233877, guid: ecaf712eac7e1ae459e05d3368fe9aac,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3497,6 +3594,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: paypad
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4625fac518691f3439106d5ac4cbc120,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3564,6 +3666,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mug (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3633,6 +3740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3701,6 +3813,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: menu (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3718,6 +3835,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -3837,6 +3959,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coffeepuck_low (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 947217512285872974, guid: 3c3d0e58cae5ddb4fb090784b4056a1a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3905,6 +4032,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: roundtable (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8879079199184537439, guid: f371516c14f17304591baf9ea7afd91f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3972,6 +4104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Roof
+      objectReference: {fileID: 0}
+    - target: {fileID: 7641742964736825306, guid: 7dce168b24292f040bc3913684c612b5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4049,6 +4186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeCount2
       objectReference: {fileID: 0}
+    - target: {fileID: 5619411793394749217, guid: f63b93ca34a0407438505082a609e4fd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4117,6 +4259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothtable
       objectReference: {fileID: 0}
+    - target: {fileID: 7531556354709720770, guid: c56962798b6e843458e303f8b802a4fa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4134,6 +4281,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kitchendoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 566744070252013212, guid: adcf5af86446d9142bff624dfafec1bb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 907099387289566246, guid: adcf5af86446d9142bff624dfafec1bb,
         type: 3}
@@ -4202,6 +4354,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: chair
+      objectReference: {fileID: 0}
+    - target: {fileID: 4951561040629019548, guid: 3d0a3bc4954908844b4f1eef89368a74,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5763668697758263590, guid: 3d0a3bc4954908844b4f1eef89368a74,
         type: 3}
@@ -4321,6 +4478,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coffeepuck_low
       objectReference: {fileID: 0}
+    - target: {fileID: 947217512285872974, guid: 3c3d0e58cae5ddb4fb090784b4056a1a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4338,6 +4500,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Frontdoor2
+      objectReference: {fileID: 0}
+    - target: {fileID: 544573952272325815, guid: 6da91334028a5fb44ac134c2becdd915,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 920255718600148493, guid: 6da91334028a5fb44ac134c2becdd915,
         type: 3}
@@ -4406,6 +4573,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: menurack
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331905580227876138, guid: 97aa1dfe870846348a981f79cb44302c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1815005338142216080, guid: 97aa1dfe870846348a981f79cb44302c,
         type: 3}
@@ -4525,6 +4697,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mug
       objectReference: {fileID: 0}
+    - target: {fileID: 8873034048689264994, guid: 2f038bbd816bbb24db2be3116d2fc67e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4542,6 +4719,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8099434419785298743, guid: cca345642909e2a4a87e8544a13448e1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8875794548495722893, guid: cca345642909e2a4a87e8544a13448e1,
         type: 3}
@@ -4661,6 +4843,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffGrinder2
       objectReference: {fileID: 0}
+    - target: {fileID: 4435095374272442916, guid: c6c06df1e0ecb3348a357dc500bca22f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4729,6 +4916,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oven2
       objectReference: {fileID: 0}
+    - target: {fileID: 8876977223777082345, guid: 710591029e4fbab438e7c2d1a00f3001,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4746,6 +4938,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BakeryCase2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8333390833793968642, guid: c29bd420ee87e174ea53b2545a692f51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8713891760108564664, guid: c29bd420ee87e174ea53b2545a692f51,
         type: 3}
@@ -4865,6 +5062,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boothchair_low
       objectReference: {fileID: 0}
+    - target: {fileID: 6869216895147377763, guid: d7de4a39b54ad5e40a7b1a853c1ce6cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4882,6 +5084,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CoffeeMachine2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5873003412253117950, guid: 973b36722b0fc0b489c94ae87b9998d2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6542263304749930308, guid: 973b36722b0fc0b489c94ae87b9998d2,
         type: 3}
@@ -5001,6 +5208,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: roundtable
       objectReference: {fileID: 0}
+    - target: {fileID: 8879079199184537439, guid: f371516c14f17304591baf9ea7afd91f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5018,6 +5230,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: dryingrack
+      objectReference: {fileID: 0}
+    - target: {fileID: 7222186511820171573, guid: 45dd812cff30636429c60ad2852e61f6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8030354584676922255, guid: 45dd812cff30636429c60ad2852e61f6,
         type: 3}
@@ -5087,6 +5304,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: stand
       objectReference: {fileID: 0}
+    - target: {fileID: 3647816560296644422, guid: 41daf386141149b4a9ecf68f8ed48a11,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4167084718597379580, guid: 41daf386141149b4a9ecf68f8ed48a11,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5154,6 +5376,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tap
+      objectReference: {fileID: 0}
+    - target: {fileID: 2381417528560875583, guid: 10b7662281168624cb4cd4f3559d0d77,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3046595208640864901, guid: 10b7662281168624cb4cd4f3559d0d77,
         type: 3}
@@ -5273,6 +5500,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: menu
       objectReference: {fileID: 0}
+    - target: {fileID: 8853105145071605537, guid: 4606a9910b6976b4980cb9b37233a3d1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5340,6 +5572,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: menusign
+      objectReference: {fileID: 0}
+    - target: {fileID: 4552151606829011648, guid: a50445d47b9be35498126d9cac4f93d5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5409,6 +5646,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sink
       objectReference: {fileID: 0}
+    - target: {fileID: 592148808404088515, guid: 0009712aca47451489cdbcacd0785b31,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5426,6 +5668,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: walls
+      objectReference: {fileID: 0}
+    - target: {fileID: 6238782192105505288, guid: 95adbdce334997e429063c241f363f35,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6764208685230790834, guid: 95adbdce334997e429063c241f363f35,
         type: 3}
@@ -5499,6 +5746,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cashier
+      objectReference: {fileID: 0}
+    - target: {fileID: 5183936242054918524, guid: 1ff6187026518cb4c8aab174a205baad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5528971355724491718, guid: 1ff6187026518cb4c8aab174a205baad,
         type: 3}
@@ -5618,6 +5870,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: clock2
       objectReference: {fileID: 0}
+    - target: {fileID: 3365142690902730396, guid: dc83193f258909c468f9490ff73929b0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5635,6 +5892,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: recieptPrinter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5895429101624404625, guid: 6a1497f7b19efac4299249f8effa2b9e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6528835332427935787, guid: 6a1497f7b19efac4299249f8effa2b9e,
         type: 3}
@@ -5754,6 +6016,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FrontCount2
       objectReference: {fileID: 0}
+    - target: {fileID: 3260331140575120012, guid: 5e8e3df315da5964fb77d2413a1f95ca,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5822,6 +6089,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stool2
       objectReference: {fileID: 0}
+    - target: {fileID: 8792763401257233877, guid: ecaf712eac7e1ae459e05d3368fe9aac,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5839,6 +6111,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cafefloor
+      objectReference: {fileID: 0}
+    - target: {fileID: 2486839858185210905, guid: 53a76008f4e0ba04f84cb9d0fe806599,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3010892747018720931, guid: 53a76008f4e0ba04f84cb9d0fe806599,
         type: 3}
@@ -5958,6 +6235,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: window2
       objectReference: {fileID: 0}
+    - target: {fileID: 1030379272601705877, guid: 7d250787a33777e4aa324eb630e62d4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5975,6 +6257,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: backdoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 7079447933404348266, guid: 00f6717ba27287a44af83953f721c7b6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7598857692542674384, guid: 00f6717ba27287a44af83953f721c7b6,
         type: 3}
@@ -6043,6 +6330,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: light_low
+      objectReference: {fileID: 0}
+    - target: {fileID: 3531078967619671354, guid: a2eabfc475841be4aaec9e7da0a298f8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4200513956988751744, guid: a2eabfc475841be4aaec9e7da0a298f8,
         type: 3}
@@ -6167,8 +6459,6 @@ SceneRoots:
   - {fileID: 7278831688911362161}
   - {fileID: 9074105124521654476}
   - {fileID: 449921009592536519}
-  - {fileID: 1229064842}
-  - {fileID: 259198226}
   - {fileID: 1485176820}
   - {fileID: 7074878768195865035}
   - {fileID: 3544344463451908071}
@@ -6186,3 +6476,4 @@ SceneRoots:
   - {fileID: 4274641616331144202}
   - {fileID: 610632602}
   - {fileID: 4700220897651845667}
+  - {fileID: 259198226}
